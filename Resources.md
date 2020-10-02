@@ -11,3 +11,5 @@
 
 > - [Types of Business entities you can own - LLC/Inc/DBA etc](https://www.legalzoom.com/business/business-formation/index.html)
 
+> - [Franchise course](https://franchisebusinessuniversity.com/sign-up-for-a-free-introductory-online-franchise-course/)
+
