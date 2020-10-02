@@ -5,7 +5,7 @@
 
 > - [A list of downloadable business plans](https://articles.bplans.com/writing-a-business-plan/)
 
-
-
+> - [Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) - A great resource to design a business model canvas
 
 > - [Mailchimp - A tool to help you manage email marketing campaigns](https://mailchimp.com/)
+
