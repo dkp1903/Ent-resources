@@ -9,3 +9,5 @@
 
 > - [Mailchimp - A tool to help you manage email marketing campaigns](https://mailchimp.com/)
 
+> - [Types of Business entities you can own - LLC/Inc/DBA etc](https://www.legalzoom.com/business/business-formation/index.html)
+
