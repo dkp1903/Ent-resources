@@ -24,3 +24,5 @@
 > - [LogoGarden](https://logogarden.com) - Free logo making
 
 > - [Pixabay](https://pixabay.com/) - High quality images
+
+> - [Google Trends](https://www.google.com/trends/) - Get info and updates on trends in the market to structure your PR
