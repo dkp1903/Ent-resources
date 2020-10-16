@@ -13,3 +13,5 @@
 
 > - [Franchise course](https://franchisebusinessuniversity.com/sign-up-for-a-free-introductory-online-franchise-course/)
 
+> - [Hatch by Digital Ocean](https://www.digitalocean.com/hatch/) - Hatch is a startup incubator program provided by Digital Ocean
+
