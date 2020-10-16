@@ -26,3 +26,5 @@
 > - [Pixabay](https://pixabay.com/) - High quality images
 
 > - [Google Trends](https://www.google.com/trends/) - Get info and updates on trends in the market to structure your PR
+
+> - [Qualaroo](https://qualaroo.com) - Do polls and surveys right onto your website
