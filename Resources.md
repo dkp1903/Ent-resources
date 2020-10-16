@@ -26,3 +26,6 @@
 > - [Pixabay](https://pixabay.com/) - High quality images
 
 > - [Google Trends](https://www.google.com/trends/) - Get info and updates on trends in the market to structure your PR
+
+> - [Outpost](https://teamoutpost.com) - Manage your inbox by integrating it with Gmail, Outlook etc, for the whole team
+
