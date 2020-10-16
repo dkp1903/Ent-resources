@@ -20,3 +20,5 @@
 > - [Buffer social Media management tool](https://buffer.com/app) - Lets you organize your social media posts across platforms
 
 > - [Basecamp](https://basecamp.com), [Trello](https://trello.com) - Project and Team Management tools
+
+> - [LogoGarden](https://logogarden.com) - Free logo making
