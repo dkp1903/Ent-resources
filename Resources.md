@@ -15,3 +15,5 @@
 
 > - [Hatch by Digital Ocean](https://www.digitalocean.com/hatch/) - Hatch is a startup incubator program provided by Digital Ocean
 
+> - [GitHub Student Developer Pack](https://education.github.com/pack) - GitHub Student Developer Pack - A list of hosting, learning and bug tracking solutions provided, as long as you're a student
+
